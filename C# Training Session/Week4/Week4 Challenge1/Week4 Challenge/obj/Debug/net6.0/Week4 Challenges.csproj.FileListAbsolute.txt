@@ -1,0 +1,15 @@
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\bin\Debug\net6.0\Week4 Challenges.exe
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\bin\Debug\net6.0\Week4 Challenges.deps.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\bin\Debug\net6.0\Week4 Challenges.runtimeconfig.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\bin\Debug\net6.0\Week4 Challenges.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\bin\Debug\net6.0\Week4 Challenges.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.csproj.AssemblyReference.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.AssemblyInfoInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.AssemblyInfo.cs
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\refint\Week4 Challenges.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\Week4 Challenges.genruntimeconfig.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Challenges\Week4 Challenges\obj\Debug\net6.0\ref\Week4 Challenges.dll

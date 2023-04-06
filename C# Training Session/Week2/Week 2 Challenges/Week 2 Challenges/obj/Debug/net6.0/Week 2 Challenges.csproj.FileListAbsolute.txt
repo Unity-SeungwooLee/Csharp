@@ -1,0 +1,15 @@
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.csproj.AssemblyReference.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.AssemblyInfoInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.AssemblyInfo.cs
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\bin\Debug\net6.0\Week 2 Challenges.exe
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\bin\Debug\net6.0\Week 2 Challenges.deps.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\bin\Debug\net6.0\Week 2 Challenges.runtimeconfig.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\bin\Debug\net6.0\Week 2 Challenges.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\bin\Debug\net6.0\Week 2 Challenges.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\refint\Week 2 Challenges.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\Week 2 Challenges.genruntimeconfig.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week2\Week 2 Challenges\Week 2 Challenges\obj\Debug\net6.0\ref\Week 2 Challenges.dll

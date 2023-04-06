@@ -1,0 +1,15 @@
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\bin\Debug\net6.0\Week4 Training Session.exe
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\bin\Debug\net6.0\Week4 Training Session.deps.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\bin\Debug\net6.0\Week4 Training Session.runtimeconfig.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\bin\Debug\net6.0\Week4 Training Session.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\bin\Debug\net6.0\Week4 Training Session.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.csproj.AssemblyReference.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.AssemblyInfoInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.AssemblyInfo.cs
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\refint\Week4 Training Session.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\Week4 Training Session.genruntimeconfig.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week4\Week4 Training Session\Week4 Training Session\obj\Debug\net6.0\ref\Week4 Training Session.dll
