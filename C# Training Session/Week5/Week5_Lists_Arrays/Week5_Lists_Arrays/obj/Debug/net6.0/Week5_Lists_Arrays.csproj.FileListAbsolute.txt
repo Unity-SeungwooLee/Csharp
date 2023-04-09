@@ -1,0 +1,15 @@
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\bin\Debug\net6.0\Week5_Lists_Arrays.exe
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\bin\Debug\net6.0\Week5_Lists_Arrays.deps.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\bin\Debug\net6.0\Week5_Lists_Arrays.runtimeconfig.json
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\bin\Debug\net6.0\Week5_Lists_Arrays.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\bin\Debug\net6.0\Week5_Lists_Arrays.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.csproj.AssemblyReference.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.AssemblyInfoInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.AssemblyInfo.cs
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\refint\Week5_Lists_Arrays.dll
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.pdb
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\Week5_Lists_Arrays.genruntimeconfig.cache
+C:\Users\tmddn\Desktop\2022\QA\C# Training Session\Week5\Week5_Lists_Arrays\Week5_Lists_Arrays\obj\Debug\net6.0\ref\Week5_Lists_Arrays.dll
