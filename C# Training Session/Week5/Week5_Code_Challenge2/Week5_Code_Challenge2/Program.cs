@@ -14,12 +14,20 @@ Console.WriteLine("Please write names what you want to store.");
 List<string> names = new List<string>();
 
 string a;
-a = Console.ReadLine();
 
-if (a != "quit")
+
+do
 {
-    names.Add(a);
+    a = Console.ReadLine();
+
+    if (a != "quit")
+    {
+        names.Add(a);
+    }
 }
+while (a != "quit");
+
+Console.WriteLine("\nAll names entered:");
 
 foreach (string name in names)
 {
