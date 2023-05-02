@@ -1,0 +1,15 @@
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.csproj.AssemblyReference.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.AssemblyInfoInputs.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.AssemblyInfo.cs
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.csproj.CoreCompileInputs.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\bin\Debug\net6.0\Week6_Classes.exe
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\bin\Debug\net6.0\Week6_Classes.deps.json
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\bin\Debug\net6.0\Week6_Classes.runtimeconfig.json
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\bin\Debug\net6.0\Week6_Classes.dll
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\bin\Debug\net6.0\Week6_Classes.pdb
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.dll
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\refint\Week6_Classes.dll
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.pdb
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\Week6_Classes.genruntimeconfig.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Classes\Week6_Classes\obj\Debug\net6.0\ref\Week6_Classes.dll

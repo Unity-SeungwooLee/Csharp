@@ -1,0 +1,15 @@
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.csproj.AssemblyReference.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.AssemblyInfoInputs.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.AssemblyInfo.cs
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\bin\Debug\net6.0\Week6_Challenge.exe
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\bin\Debug\net6.0\Week6_Challenge.deps.json
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\bin\Debug\net6.0\Week6_Challenge.runtimeconfig.json
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\bin\Debug\net6.0\Week6_Challenge.dll
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\bin\Debug\net6.0\Week6_Challenge.pdb
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.dll
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\refint\Week6_Challenge.dll
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.pdb
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\Week6_Challenge.genruntimeconfig.cache
+C:\Users\seungwoo.lee\Documents\GitHub\Csharp\C# Training Session\Week6\Week6_Challenge\Week6_Challenge\obj\Debug\net6.0\ref\Week6_Challenge.dll
