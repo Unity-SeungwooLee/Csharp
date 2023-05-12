@@ -1,0 +1,7 @@
+https://youtu.be/h4_su9x_yqU
+
+https://docs.unity3d.com/Manual/class-ScriptableObject.html
+
+https://tutorials.eu/unity-attributes-15-tipps-for-the-perfect-inspector-experience/
+
+https://learn.microsoft.com/en-us/dotnet/api/system.io.file?view=net-7.0
